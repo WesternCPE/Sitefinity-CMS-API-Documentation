@@ -1,6 +1,6 @@
 {
   "name": "WCPERestAPI",
-  "version": "2022.3.29",
+  "version": "2022.3.30",
   "description": "Sitefinity CMS API Documentation",
   "main": "src/index.js",
   "scripts": {
